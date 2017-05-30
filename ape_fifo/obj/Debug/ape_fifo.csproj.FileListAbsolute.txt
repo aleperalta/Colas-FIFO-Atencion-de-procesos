@@ -1,0 +1,9 @@
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_fifo\ape_fifo\bin\Debug\ape_fifo.exe.config
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_fifo\ape_fifo\bin\Debug\ape_fifo.exe
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_fifo\ape_fifo\bin\Debug\ape_fifo.pdb
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_fifo\ape_fifo\obj\Debug\ape_fifo.csprojResolveAssemblyReference.cache
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_fifo\ape_fifo\obj\Debug\ape_fifo.Properties.Resources.resources
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_fifo\ape_fifo\obj\Debug\ape_fifo.csproj.GenerateResource.Cache
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_fifo\ape_fifo\obj\Debug\ape_fifo.exe
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_fifo\ape_fifo\obj\Debug\ape_fifo.pdb
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_fifo\ape_fifo\obj\Debug\ape_fifo.Form1frmPrincipal.resources
